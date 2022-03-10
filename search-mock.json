@@ -1,0 +1,1699 @@
+[{
+    "providerResults": {
+        "hasMoreResults": true,
+        "resultCountExact": 188,
+        "resultCounts": {
+            "sourceResultCounts": [
+                {
+                    "resultCountExact": 188,
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                }
+            ]
+        },
+        "results": [
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "en"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.609Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "1E5433437C91AA526A7D2616041C46EC"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.609Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Banca IMI CIB"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.609Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.609Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.609Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-02-17T15:32:41Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Banca IMI CIB",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=0&cad=rja&q&sig2=WL0fDaczk82Dt4YQE1dnkQ&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAAwAA&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en.html&usg=AOvVaw3LVF8tmOwIFgZmrGLjmkQI"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.623Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "en"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "4885BB68006A190373514E8540F1761B"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.623Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/test-page"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.623Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.623Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Test page"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-01-20T13:48:13Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.623Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Test page",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=1&cad=rja&q&sig2=YOfRGq2c0QqWg9Nh_bA43Q&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAEwAQ&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/test-page.html&usg=AOvVaw25fx506RkX4IPpdf8zGaZS"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "75E93849680988EBEA631032D1A1B7E9"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.661Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-01-20T11:55:22Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "en"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/chi-siamo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.661Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Chi siamo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.661Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.661Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.661Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Chi siamo",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=2&cad=rja&q&sig2=2xw95Vz3zmW6L4WYh3ihRA&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAIwAg&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/chi-siamo.html&usg=AOvVaw01kimXuPUfekIQrbCw3GAS"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.861Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.860Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "en"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.860Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.860Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "ESG"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/esg"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.860Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-01-20T11:55:24Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "9AC874B344D597E3F55CB9CD92F71228"
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "ESG",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=3&cad=rja&q&sig2=wtq3vZf8TR_80b84L_b5SA&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAMwAw&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/en/esg.html&usg=AOvVaw3iYHT_hnLBD0HyRPlc0BdM"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/chi-siamo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-08T11:08:26Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:35.168Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:35.168Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "455819CA4AFCB51B19BC03BB2286C2F2"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:35.168Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:35.168Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Chi siamo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:35.168Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Chi siamo",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=4&cad=rja&q&sig2=0fJvFdejA0mjwp2RXO4kuw&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAQwBA&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/chi-siamo.html&usg=AOvVaw1Nz0v7wuDJvS1o3qy2YxbW"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:37.660Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:37.660Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Modello di servizio"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-08T10:42:54Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:37.660Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "D33C9D2ED27B0A3827A58A65CC125A1D"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/chi-siamo/modello-di-servizio"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:37.660Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:26:37.660Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Modello di servizio",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=5&cad=rja&q&sig2=O1h5fe7yTUopfeNRS2Jjbg&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAUwBQ&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/chi-siamo/modello-di-servizio.html&usg=AOvVaw3Sp_1hXXBMIb9fchp6Szl1"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.626Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.626Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.626Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "D6C03C08BACD537ABE461FBB5C551C7D"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-08T08:17:40Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.627Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Prova Homepage"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:28.626Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Prova Homepage",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=6&cad=rja&q&sig2=ad7mTpaanieUCACw61yq1w&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAYwBg&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it.html&usg=AOvVaw0iKNLjCzImJwJjAW0ZB7S1"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:32.262Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Documentazione Normativa"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:32.262Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "C0F677ACBA0157D88CF91CAEA0C3CD5A"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-07T15:53:04Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:32.262Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:32.262Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/documentazione/documentazione-normativa"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:32.263Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Documentazione Normativa",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=7&cad=rja&q&sig2=oclktKMwyTifCJlejxAjsg&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAcwBw&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/documentazione/documentazione-normativa.html&usg=AOvVaw1az0ctj7MTXbn6xTwCtVIj"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:34.164Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:34.164Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "AML/CTF"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:34.164Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-07T15:49:54Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:34.164Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/documentazione/documentazione-normativa/aml-ctf"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:34.164Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "99C0B609D1228C971B9EB1711C64AC3A"
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "AML/CTF",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=8&cad=rja&q&sig2=kYIhB-yseWGCSWqZ3lbNXg&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAgwCA&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/documentazione/documentazione-normativa/aml-ctf.html&usg=AOvVaw1cbAbS8Hnw1KEWFC7j-_TE"
+            },
+            {
+                "metadata": {
+                    "displayOptions": {
+                        "objectTypeLabel": "site"
+                    },
+                    "fields": [
+                        {
+                            "name": "language",
+                            "textValues": {
+                                "values": [
+                                    "it"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr3",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr5",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr1",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.756Z"
+                                ]
+                            }
+                        },
+                        {
+                            "enumValues": {
+                                "values": [
+                                    "LOW"
+                                ]
+                            },
+                            "name": "folderPriority"
+                        },
+                        {
+                            "name": "customStrAttr6",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "title",
+                            "textValues": {
+                                "values": [
+                                    "Prodotti e Servizi"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "createdDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.756Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "lastModifiedDate",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-07T15:44:11Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr4",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "gcsUniqueId",
+                            "textValues": {
+                                "values": [
+                                    "B379DF1B8F7F67F5AF02AEBE470579EA"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr2",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.756Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr8",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr7",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "ingestedTimestamp",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.756Z"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr1",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customStrAttr2",
+                            "textValues": {
+                                "values": [
+                                    ""
+                                ]
+                            }
+                        },
+                        {
+                            "name": "link",
+                            "textValues": {
+                                "values": [
+                                    "http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/prodotti-e-servizi"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "customDateAttr3",
+                            "timestampValues": {
+                                "values": [
+                                    "2022-03-09T18:24:30.756Z"
+                                ]
+                            }
+                        }
+                    ],
+                    "objectType": "page",
+                    "source": {
+                        "name": "datasources/9d32acb29d45e4fc029417158e861721"
+                    }
+                },
+                "snippet": {},
+                "title": "Prodotti e Servizi",
+                "url": "http://www.google.com/url?sa=t&rct=j&esrc=s&source=appssearch&uact=8&cd=9&cad=rja&q&sig2=ArlTW-IUT_0A6HJzY4ZLKA&ved=0ahUKEwiT_dTwj7v2AhWS-lAKHSbhAd04ABABKAkwCQ&url=http://sveti1.syssede.systest.sanpaoloimi.com:8675/content/imi-cib/it/prodotti-e-servizi.html&usg=AOvVaw3p_uttOZ21oqsXrznjXz5t"
+            }
+        ]
+    }
+}
+]
